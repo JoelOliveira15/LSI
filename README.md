@@ -1,2 +1,1 @@
-﻿# 
-Disciplina criada para postagens de projetos, exercícios e aulas.
+﻿Disciplina criada para postagens de projetos, exercícios e aulas.
