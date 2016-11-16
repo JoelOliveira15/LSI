@@ -1,0 +1,1 @@
+Para rodar a aplicação bonitinha, abra a pasta (ASSERT) e dentro tem os script do siste e do sistema.
